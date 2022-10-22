@@ -27,7 +27,7 @@ Javascript, Solidity, Typescript, Java, C# (CSharp), Kotlin, Dart+Flutter, PHP, 
 
 ⚡  **Databases:** Mysql, Oracle, PostgreSQL , SQL Server, SQLite, Access, XBase.
 
-⚡  **Technologies:** Nodejs, ReactJs, Angular, PWA, Rest, API, IDEs (Visual Studio, Android Studio, Intellij, PhpStorm, VS Code), Git, TypeORM, Prisma, NestJs, Web3, Blockchain, DeFi, EVM, Apis, Tokens, Cryptocurrencies, Smart Contracts and others.
+⚡  **Technologies:** Nodejs, ReactJs, Angular, PWA, Rest, API, IDEs (Visual Studio, Android Studio, Intellij, PhpStorm, VS Code), Git, TypeORM, Prisma, NestJs, Web3, Blockchain, DeFi, EVM, Apis, Tokens, Cryptocurrencies, Smart Contracts, Scrum and others.
 
 
 <br />
