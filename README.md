@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Volmir
-- 👀 I’m interested in ... Blockchain development
-- 🌱 I’m currently learning ... All or Allways
+- 👀 I’m interested in  Blockchain development and ecosystem its 
+- 🌱 I’m currently learning ... Allways or All 
 
 - 📫 How to reach me ... github@volmir.com.br
 - [My LinkedIn](https://www.linkedin.com/in/volmirls/)
