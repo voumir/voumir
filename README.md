@@ -1,10 +1,10 @@
 # **_Volmir Lemes_**
 
 <a href="mailto:volmirls@gmail.com">
-<img src="https://img.shields.io/badge/-volmirls@gmail.com-c14438?color=blueviolet&style=plastic&logo=Gmail&logoColor=white&link=mailto:volmirls@gmail.com&labelColor=red" />
+<img src="https://img.shields.io/badge/-volmirls@gmail.com-c14438?color=blueviolet&style=plastic&logo=Gmail&logoColor=white&link=mailto:volmirls@gmail.com&labelColor=orange" />
 </a> <a href="https://www.linkedin.com/in/volmirls/">
-<img src="https://img.shields.io/badge/-Volmir_Lemes-blue?color=blueviolet&style=plastic&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/volmirls/" /></a> <a href="https://twitter.com/volmir">
-<img src="https://img.shields.io/badge/-Volmir-blue?style=plastic&color=blueviolet&logo=Twitter&labelColor=grey&logoColor=blue&link=https://twitter.com/volmir" /></a>  
+<img src="https://img.shields.io/badge/-Volmir_Lemes-blue?color=blueviolet&style=plastic&logo=Linkedin&logoColor=white&labelColor=orange&link=https://www.linkedin.com/in/volmirls/" /></a> <a href="https://twitter.com/volmir">
+<img src="https://img.shields.io/badge/-Volmir-blue?style=plastic&color=blueviolet&logo=Twitter&labelColor=orange&logoColor=white&link=https://twitter.com/volmir" /></a>  
 
 
 
@@ -39,9 +39,13 @@ _Nodejs, ReactJs, Angular, PWA, Rest, API, IDEs (Visual Studio, Android Studio, 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
-* [My LinkedIn](https://www.linkedin.com/in/volmirls/)
-* [My Site](http://www.volmir.com.br?o=github)
+* _[My LinkedIn](https://www.linkedin.com/in/volmirls/)_
+* _[My Site](http://www.volmir.com.br?o=github)_
 
 
 
