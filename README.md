@@ -1,10 +1,12 @@
 # **_Volmir Lemes_**
 
-<a href="mailto:github@volmir.com.br">
-<img src="https://img.shields.io/badge/-github@volmir.com.br-c14438?color=blueviolet&style=plastic&logo=Gmail&logoColor=white&link=mailto:github@volmir.com.br&labelColor=red" />
+<a href="mailto:volmirls@gmail.com">
+<img src="https://img.shields.io/badge/-volmirls@gmail.com-c14438?color=blueviolet&style=plastic&logo=Gmail&logoColor=white&link=mailto:volmirls@gmail.com&labelColor=red" />
 </a> <a href="https://www.linkedin.com/in/volmirls/">
-<img src="https://img.shields.io/badge/-Volmir_Lemes-blue?color=blueviolet&style=plastic&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/volmirls/" /></a> <a href="https://www.linkedin.com/in/volmir/">
-<img src="https://img.shields.io/badge/-Volmir-blue?style=plastic&color=blueviolet&logo=Twitter&labelColor=grey&logoColor=blue&link=https://www.linkedin.com/in/volmir/" /></a>  
+<img src="https://img.shields.io/badge/-Volmir_Lemes-blue?color=blueviolet&style=plastic&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/volmirls/" /></a> <a href="https://twitter.com/volmir">
+<img src="https://img.shields.io/badge/-Volmir-blue?style=plastic&color=blueviolet&logo=Twitter&labelColor=grey&logoColor=blue&link=https://twitter.com/volmir" /></a>  
+
+
 
 <br />
 <br />
@@ -13,7 +15,7 @@
 
 👀 I’m interested in **Blockchain** development and ecosystem its 
 
-📫 How to reach me github@volmir.com.br or [my LinkedIn](https://www.linkedin.com/in/volmirls/)
+📫 How to reach me volmirls@gmail.com or [my LinkedIn](https://www.linkedin.com/in/volmirls/)
 
 
 <br />
