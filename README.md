@@ -23,13 +23,13 @@
 
 
 ⚡  **Programming Languages:** 
-``` Javascript, Solidity, Typescript, Java, C# (CSharp), Kotlin, Dart+Flutter, PHP, classic ASP, VB6/VBNet, SQL, ColdFusion, Xbase (Clipper, FoxPro, DBase, Harbour), C e C++, Basic, Pascoal (Delphi, Power House), Html.```
+_Javascript, Solidity, Typescript, Java, C# (CSharp), Kotlin, Dart+Flutter, PHP, classic ASP, VB6/VBNet, SQL, ColdFusion, Xbase (Clipper, FoxPro, DBase, Harbour), C e C++, Basic, Pascoal (Delphi, Power House), Html._
 
 ⚡  **Databases:** 
-``` Mysql, Oracle, PostgreSQL , SQL Server, SQLite, Access, XBase.```
+_Mysql, Oracle, PostgreSQL , SQL Server, SQLite, Access, XBase._
 
 ⚡  **Technologies:** 
-``` Nodejs, ReactJs, Angular, PWA, Rest, API, IDEs (Visual Studio, Android Studio, Intellij, PhpStorm, VS Code), Git, TypeORM, Prisma, NestJs, Web3, Blockchain, DeFi, EVM, Apis, Tokens, Cryptocurrencies, Smart Contracts and others.```
+_Nodejs, ReactJs, Angular, PWA, Rest, API, IDEs (Visual Studio, Android Studio, Intellij, PhpStorm, VS Code), Git, TypeORM, Prisma, NestJs, Web3, Blockchain, DeFi, EVM, Apis, Tokens, Cryptocurrencies, Smart Contracts, Scrum and others._
 
 
 
